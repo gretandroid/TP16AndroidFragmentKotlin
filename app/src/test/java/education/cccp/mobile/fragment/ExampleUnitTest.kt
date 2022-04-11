@@ -1,4 +1,4 @@
-package education.cccp.mobile
+package education.cccp.mobile.fragment
 
 import org.junit.Test
 

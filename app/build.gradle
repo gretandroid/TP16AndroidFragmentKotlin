@@ -7,7 +7,7 @@ android {
     compileSdk 32
 
     defaultConfig {
-        applicationId "education.cccp.mobile"
+        applicationId "education.cccp.mobile.fragment"
         minSdk 23
         targetSdk 32
         versionCode 1
